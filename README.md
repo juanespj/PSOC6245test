@@ -20,9 +20,11 @@ bsp TARGET_GEN=PSOC6245 DEVICE_GEN=CY8C6245FNI-S3D41
 ```
 
 modify the make file replace PSOC6-GENERIC with the TARGET_GEN above
+
 ```
 TARGET=PSOC6-GENERIC
 ```
+
 ```
 TARGET=PSOC6245
 ```
