@@ -1,3 +1,8 @@
+# MODUSTOOLBOX SETUP 
+http://gnu-mcu-eclipse.netlify.com/v4-neon-updates
+http://download.eclipse.org/releases/neon/
+https://www.genuitec.com/updates/devstyle/ci/
+
 # PSoC 6 MCU: 
 
 CY8C6245
